@@ -1,5 +1,5 @@
 
 
-var bitcoreTasks = require('bitcore-build');
+var dankcoreTasks = require('dankcore-build');
 
-bitcoreTasks();
+dankcoreTasks();

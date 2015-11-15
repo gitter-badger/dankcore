@@ -16,8 +16,8 @@ report
 .DS_Store
 
 
-bitcore.js
-bitcore.min.js
-bitcore.js.sig
-bitcore.min.js.sig
+dankcore.js
+dankcore.min.js
+dankcore.js.sig
+dankcore.min.js.sig
 tests.js

@@ -1,5 +1,5 @@
 'use strict';
 
-var bitcore = require('bitcore-lib');
+var dankcore = require('dankcore-lib');
 
-module.exports = bitcore;
+module.exports = dankcore;

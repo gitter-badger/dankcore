@@ -1,27 +1,27 @@
 'use strict';
 
 var should = require('chai').should();
-var bitcore = require('../');
+var dankcore = require('../');
 
 describe('Library', function() {
   it('should export primatives', function() {
-    should.exist(bitcore.crypto);
-    should.exist(bitcore.encoding);
-    should.exist(bitcore.util);
-    should.exist(bitcore.errors);
-    should.exist(bitcore.Address);
-    should.exist(bitcore.Block);
-    should.exist(bitcore.MerkleBlock);
-    should.exist(bitcore.BlockHeader);
-    should.exist(bitcore.HDPrivateKey);
-    should.exist(bitcore.HDPublicKey);
-    should.exist(bitcore.Networks);
-    should.exist(bitcore.Opcode);
-    should.exist(bitcore.PrivateKey);
-    should.exist(bitcore.PublicKey);
-    should.exist(bitcore.Script);
-    should.exist(bitcore.Transaction);
-    should.exist(bitcore.URI);
-    should.exist(bitcore.Unit);
+    should.exist(dankcore.crypto);
+    should.exist(dankcore.encoding);
+    should.exist(dankcore.util);
+    should.exist(dankcore.errors);
+    should.exist(dankcore.Address);
+    should.exist(dankcore.Block);
+    should.exist(dankcore.MerkleBlock);
+    should.exist(dankcore.BlockHeader);
+    should.exist(dankcore.HDPrivateKey);
+    should.exist(dankcore.HDPublicKey);
+    should.exist(dankcore.Networks);
+    should.exist(dankcore.Opcode);
+    should.exist(dankcore.PrivateKey);
+    should.exist(dankcore.PublicKey);
+    should.exist(dankcore.Script);
+    should.exist(dankcore.Transaction);
+    should.exist(dankcore.URI);
+    should.exist(dankcore.Unit);
   });
 });
