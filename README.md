@@ -1,6 +1,8 @@
 Bitcore
 =======
 
+[![Join the chat at https://gitter.im/dankcoin/dankcore](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dankcoin/dankcore?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![NPM Package](https://img.shields.io/npm/v/bitcore.svg?style=flat-square)](https://www.npmjs.org/package/bitcore)
 [![Build Status](https://img.shields.io/travis/bitpay/bitcore.svg?branch=master&style=flat-square)](https://travis-ci.org/bitpay/bitcore)
 
